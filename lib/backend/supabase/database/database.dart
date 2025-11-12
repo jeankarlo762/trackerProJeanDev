@@ -1,0 +1,32 @@
+export '../../../flutter_flow/lat_lng.dart';
+export 'package:supabase_flutter/supabase_flutter.dart' hide Provider;
+
+export '../supabase.dart';
+export 'row.dart';
+export 'table.dart';
+
+export 'tables/tickets_com_status.dart';
+export 'tables/status.dart';
+export 'tables/ticket_history.dart';
+export 'tables/vw_agents_wmi_detail.dart';
+export 'tables/vw_installed_softwares.dart';
+export 'tables/vw_agents_info.dart';
+export 'tables/clients_client.dart';
+export 'tables/agents_agent.dart';
+export 'tables/vw_agents_allinfo.dart';
+export 'tables/tickets.dart';
+export 'tables/agents_agent_metrics.dart';
+export 'tables/tipos_equipamentos.dart';
+export 'tables/clients_site.dart';
+export 'tables/gerente_contas.dart';
+export 'tables/view_profile_client.dart';
+export 'tables/collaborators.dart';
+export 'tables/user_profiles.dart';
+export 'tables/view_colaborador_details.dart';
+export 'tables/agents_agent_disks_metrics.dart';
+export 'tables/vw_fabricantes_kpi.dart';
+export 'tables/adress.dart';
+export 'tables/tickets_tecnicos.dart';
+export 'tables/view_inventario_dispositivos.dart';
+export 'tables/software_installedsoftware.dart';
+export 'tables/coments_ticket.dart';
